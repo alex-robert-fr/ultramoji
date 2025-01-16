@@ -1,0 +1,26 @@
+{
+  "name": "ultramoji",
+  "version": "0.1.0-dev",
+  "description": "A lighter alternative to gitmoji (no dependencies) :)",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-robert-fr/ultramoji.git"
+  },
+  "keywords": [
+    "ultramoji",
+    "gitmoji",
+    "commit",
+    "git",
+    "0x7c00"
+  ],
+  "author": "Alex Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-robert-fr/ultramoji/issues"
+  },
+  "homepage": "https://github.com/alex-robert-fr/ultramoji#readme"
+}
