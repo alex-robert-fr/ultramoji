@@ -18,9 +18,13 @@ The goal is to build a command-line tool that adds standardized emojis to Git co
 ## 🚀 Planned Features
 
 ✅ List of emojis and their descriptions
+
 ✅ Search emojis by keyword
+
 ✅ Interactive CLI interface
+
 ✅ Configuration file to customize which emojis are available
+
 ✅ Zero external dependencies
 
 ---
@@ -45,8 +49,7 @@ Contributions and ideas are already welcome!
 Once the project is functional, the expected installation steps will be:
 
 ```bash
-git clone https://github.com/your-username/ultramoji.git
-cd ultramoji
+git clone https://github.com/alex-robert-fr/ultramoji.git
 make
 ```
 
